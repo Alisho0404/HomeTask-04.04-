@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hdI8WK4ny8ScjwjNYIttq1TLVXWNWTv/MQxgZCROoh6Mv77clJEd852ov6DOWNDslIRt+Frj6aFDlFnrxd2+KA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alisho\\Desktop\\PostgreSQL\\Week4\\Day3(03.04)\\HomeTask(03.04)\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alisho\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\Alisho\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alisho\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alisho\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
